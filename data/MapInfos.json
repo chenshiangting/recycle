@@ -1,8 +1,8 @@
 [
 null,
 null,
-{"id":2,"expanded":false,"name":"2小镇","order":3,"parentId":0,"scrollX":675.2727272727273,"scrollY":406.3636363636364,"quick":false},
-{"id":3,"expanded":false,"name":"結局","order":1,"parentId":0,"scrollX":666.5454545454546,"scrollY":371.4545454545455,"quick":false},
+{"id":2,"expanded":false,"name":"2小镇","order":2,"parentId":0,"scrollX":675.2727272727273,"scrollY":515.4545454545455,"quick":false},
+{"id":3,"expanded":false,"name":"結局","order":1,"parentId":0,"scrollX":666.5454545454546,"scrollY":362.72727272727275,"quick":false},
 null,
 {"id":5,"expanded":true,"name":"5小村民居 窗壞","order":10,"parentId":15,"scrollX":666.5454545454546,"scrollY":396.54545454545456,"quick":false},
 {"id":6,"expanded":false,"name":"6物品商店","order":11,"parentId":0,"scrollX":666.5454545454546,"scrollY":444.54545454545456,"quick":false},
@@ -10,7 +10,7 @@ null,
 null,
 null,
 {"id":10,"expanded":true,"name":"10髒酒吧","order":6,"parentId":12,"scrollX":666.5454545454546,"scrollY":396.54545454545456,"quick":true},
-{"id":11,"expanded":false,"name":"小镇","order":2,"parentId":0,"scrollX":708,"scrollY":489.2727272727273,"quick":false},
+{"id":11,"expanded":false,"name":"小镇","order":3,"parentId":2,"scrollX":708,"scrollY":371.4545454545455,"quick":false},
 {"id":12,"expanded":true,"name":"12酒吧","order":5,"parentId":0,"scrollX":666.5454545454546,"scrollY":396.54545454545456,"quick":true},
 null,
 null,
@@ -19,5 +19,5 @@ null,
 null,
 null,
 null,
-{"id":20,"expanded":true,"name":"20学校 教室","order":7,"parentId":0,"scrollX":666.5454545454546,"scrollY":501.2727272727273,"quick":false}
+{"id":20,"expanded":true,"name":"20学校 教室","order":7,"parentId":0,"scrollX":666.5454545454546,"scrollY":693.2727272727273,"quick":false}
 ]
